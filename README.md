@@ -1,8 +1,8 @@
-# CRONIDAS IA
+# PHATOS IA
 
 Repositório criado para o desafio de projeto sobre Git/GitHub
 
-O Cronidas IA tem como objetivo desenvolver um sistema que analise imagens de fachadas de edificações históricas, identifique patologias e proponha intervenções.
+O PHATOS IA tem como objetivo desenvolver um sistema que analise imagens de fachadas de edificações históricas, identifique patologias e proponha intervenções.
 
 ## Etapas
 
